@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lasso-blip
-- 👀 I’m interested in tech development
-- 🌱 I’m currently learning computer science
+- 🤩 I’m in love with coding!! 
 - 💞️ I’m looking to collaborate on tech and software development projects
 
 
